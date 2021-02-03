@@ -57,9 +57,9 @@ console.log(module.exports);
 console.log(module.exports == exports);
 
 //当前模块的完成路径
-//输出：/Users/wally/Desktop/Code/Node/atguigu-node/day01/04.module.js
+//输出：/Users/wally/Desktop/Code/Node/atguigu-node/01.node/04.module.js
 console.log(__filename);
 
 //当前模块，所在文件夹的路径
-//输出：/Users/wally/Desktop/Code/Node/atguigu-node/day01
+//输出：/Users/wally/Desktop/Code/Node/atguigu-node/01.node
 console.log(__dirname);
